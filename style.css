@@ -2,7 +2,7 @@
 
 body{
     margin: 0px;
-    background-color: #aaa;
+    background-color: #f10909;
 }
 #dvPainel{
     display: flex;
@@ -15,8 +15,8 @@ body{
 #dvJogo{
     width: 960px;
     height: 500px;
-    border: 1px solid #000;
-    background-color: #000;
+    border: 1px solid #cbf800;
+    background-color: #042eeb;
 }
 #dvBola{
     position: absolute;
@@ -24,13 +24,13 @@ body{
     left: 475px;
     width: 20px;
     height: 20px;
-    background-color: #8888;
+    background-color: #0a0a0a88;
 }
 .barra{
     position: absolute;
     width: 20px;
     height: 140px;
-    background-color: #888;
+    background-color: #b705ee;
     top: 180px;
 }
 .esquerda{
